@@ -353,16 +353,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":0,
-         "firstgid":455,
-         "margin":0,
-         "name":"house_inside",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":8,
          "firstgid":455,
          "image":"C:\/Users\/lisav\/Pictures\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
